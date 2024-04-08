@@ -1,0 +1,20 @@
+{
+  "name": "WOW-world",
+  "version": "1.0.2",
+  "description": "WOW world",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xinyuzjj/WOW-World-.git",
+    "directory": "hellos/hello-www"
+  },
+  "main": "index.js",
+  "author": "XINYUZJJ",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "WOWworld": "^1.0.0"
+  }
+}

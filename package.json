@@ -1,0 +1,15 @@
+{
+  "name": "WOW-Wrold-",
+  "version": "1.0.0",
+  "description": "Wow worlds",
+  "main": "index.js",
+  "repository": "https://github.com/xinyuzjj/WOW-World-.git",
+  "license": "MIT",
+  "workspaces": [
+    "hellos/*"
+  ],
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "WOWworld": "^1.0.0"
+  }
+}
