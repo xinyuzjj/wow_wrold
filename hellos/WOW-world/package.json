@@ -4,7 +4,7 @@
   "description": "WOW world",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xinyuzjj/WOW-World-.git",
+    "url": "https://github.com/xinyuzjj/wow_wrold",
     "directory": "hellos/hello-www"
   },
   "main": "index.js",
